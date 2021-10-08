@@ -1,0 +1,5 @@
+https://trello.com/b/S8Txl6gB/qa-assessment-tic-tac-toe
+
+Other errors:
+-Can click on Os for your turn
+-Can click on an old X spot for your turn
